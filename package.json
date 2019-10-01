@@ -1,0 +1,23 @@
+{
+  "name": "background-jobs",
+  "version": "1.0.0",
+  "main": "bee-queue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohan589/node-background-jobs.git"
+  },
+  "author": "Mohan <mohan589@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohan589/node-background-jobs/issues"
+  },
+  "homepage": "https://github.com/mohan589/node-background-jobs#readme",
+  "description": "",
+  "dependencies": {
+    "bee-queue": "^1.2.2",
+    "bull": "^3.11.0"
+  }
+}
